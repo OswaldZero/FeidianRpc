@@ -7,9 +7,30 @@
     <groupId>org.feidian</groupId>
     <artifactId>FeidianRpc</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>沸点rpc框架</description>
     <packaging>jar</packaging>
+    <name>FeiDianRPCFramework</name>
+    <url>https://github.com/OswaldZero/FeidianRpc</url>
+    <description>华中农业大学沸点工作室rpc框架</description>
+    <issueManagement>
+        <system>rpcIssues</system>
+        <url>https://github.com/OswaldZero/FeidianRpc/issues</url>
+    </issueManagement>
+    <developers>
+        <developer>
+            <name>YihuWu</name>
+            <url>https://github.com/OswaldZero</url>
+            <email>1726036835@qq.com</email>
+            <roles>
+                <role>ProjectManager</role>
+                <role>ProjectDeveloper</role>
+            </roles>
+            <organization>feidian</organization>
+            <timezone>GMT+8</timezone>
+        </developer>
+    </developers>
+    <licenses>
 
+    </licenses>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
