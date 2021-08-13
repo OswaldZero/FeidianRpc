@@ -29,8 +29,17 @@
         </developer>
     </developers>
     <licenses>
-
+            <license>
+                <name>Apache-2.0</name>
+                <url>https://github.com/OswaldZero/FeidianRpc/blob/master/LICENSE</url>
+                <distribution>repo</distribution>
+                <comments>A business-friendly OSS license</comments>
+            </license>
     </licenses>
+    <organization>
+        <name>feidian</name>
+        <url>http://www.52feidian.com</url>
+    </organization>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
